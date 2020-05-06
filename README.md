@@ -10,7 +10,10 @@ Since 2012, he has been using the Runkeeper app, and it's great. One key feature
 
 We applied machine learning algorithms to predict the heart beat of the person by using:
 
-Linear Regression
-Decision Tree
-Random Forest
-Gradient Boosting
+1. Linear Regression
+
+2. Decision Tree
+
+3. Random Forest
+
+4. Gradient Boosting
